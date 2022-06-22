@@ -63,6 +63,13 @@ To get started with adapters, refer to these locations:
 - **[Examples folder](https://github.com/Adapter-Hub/adapter-transformers/tree/master/examples)** of this repository containing HuggingFace's example training scripts, many adapted for training adapters
 
 
+## Paper
+
+This repository implements the following paper using the adapter-transformers library.<br>
+[BAD-X: Bilingual Adapters Improve Zero-Shot Cross-Lingual Transfer](https://openreview.net/pdf/f036ee12abbbb46fe714285edaed9c36e39ce551.pdf)
+by Marinela Parovi&#263;, Goran Glava&#353;, Ivan Vuli&#263;, and Anna Korhonen <br>
+<i>In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2022), coming soon, Jul 2022. </i>
+
 ## Citation
 
 If you use this library for your work, please consider citing our paper [AdapterHub: A Framework for Adapting Transformers](https://arxiv.org/abs/2007.07779):

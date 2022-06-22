@@ -14,6 +14,33 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
+## Bilingual adapter training
+
+The code for training bilingual and multilingual adapters is in the file `run_bi_mlm.py`. 
+An example run:
+```bash
+python run_bi_mlm.py \
+     --output_dir /tmp/test-bi \
+     --mlm_probability 0.15 \
+     --model_type bert \
+     --model_name_or_path bert-base-multilingual-cased \
+     --do_train \
+     --do_eval \
+     --train_file paths.txt \
+     --train_adapter \
+     --max_seq_len 512 \
+     --validation_split_percentage 5 \
+     --k 1
+
+```
+where the file `paths.txt` contains the paths of unlabelled data files for languages that adapter is trained on. For example, when training the bilingual adapter for English and Basque, file `paths.txt` could be:
+
+```text
+en wiki/en
+eu wiki/eu
+```
+Command line argument `k` determines the sampling ratios of languages during training. When `k=1` languages are sampled by alternating batches, while `k=5` would mean that 5 batches of the first language are followed by 1 batch of the second language in the file during training. For multilingual adapters (when number of languages is more than 2), only `k=1` is supported.
+
 ## Language model training
 
 Fine-tuning (or training from scratch) the library models for language modeling on a text dataset for GPT, GPT-2,
