@@ -1,0 +1,716 @@
+{
+    "am": {
+        "wiki": {
+            "9076f36a74755ac4": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_am_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_am_wiki_pfeiffer.json"
+        }
+    },
+    "ar": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ar-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-ar-wiki_pfeiffer_relu.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ar-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ar-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "bh": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_bh_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_bh_wiki_pfeiffer.json"
+        }
+    },
+    "bn": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_wiki_bn_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_wiki_bn_pfeiffer.json"
+        }
+    },
+    "bxr": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_bxr_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_bxr_wiki_pfeiffer.json"
+        }
+    },
+    "cdo": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-cdo-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-cdo-wiki_pfeiffer.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-cdo-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-cdo-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "cs": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_cs_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_cs_wiki_pfeiffer.json"
+        }
+    },
+    "de": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-de-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-de-wiki_pfeiffer.json",
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-de-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "el": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-el-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-el-wiki_pfeiffer.json",
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-el-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "en": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-en-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-en-wiki_pfeiffer_relu.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-en-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-en-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "es": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-es-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-es-wiki_pfeiffer.json",
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-es-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "et": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-et-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-et-wiki_pfeiffer.json",
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-et-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "eu": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_eu_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_eu_wiki_pfeiffer.json"
+        }
+    },
+    "fa": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_fa_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_fa_wiki_pfeiffer.json"
+        }
+    },
+    "fi": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-fi-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-fi-wiki_pfeiffer.json",
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-fi-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "fr": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-fr-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-fr-wiki_pfeiffer.json",
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-fr-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "gn": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-gn-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-gn-wiki_pfeiffer.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-gn-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-gn-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "hi": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-hi-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-hi-wiki_pfeiffer.json",
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-hi-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "ht": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ht-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-ht-wiki_pfeiffer.json",
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ht-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "hu": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_hu_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_hu_wiki_pfeiffer.json"
+        }
+    },
+    "hy": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_hy_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_hy_wiki_pfeiffer.json"
+        }
+    },
+    "id": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_wiki_id_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_wiki_id_pfeiffer.json"
+        }
+    },
+    "ilo": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ilo-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-ilo-wiki_pfeiffer_relu.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ilo-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ilo-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "is": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-is-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-is-wiki_pfeiffer.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-is-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-is-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "ja": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ja-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-ja-wiki_pfeiffer.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ja-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ja-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "jv": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-jv-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-jv-wiki_pfeiffer_relu.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-jv-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-jv-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "ka": {
+        "wiki": {
+            "9076f36a74755ac4": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_ka_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_ka_wiki_pfeiffer.json"
+        }
+    },
+    "ko": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ko-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-ko-wiki_pfeiffer.json",
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ko-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "kv": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_kv_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_kv_wiki_pfeiffer.json"
+        }
+    },
+    "la": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_la_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_la_wiki_pfeiffer.json"
+        }
+    },
+    "lv": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_lv_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_lv_wiki_pfeiffer.json"
+        }
+    },
+    "mhr": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-mhr-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-mhr-wiki_pfeiffer.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-mhr-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-mhr-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "mi": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-mi-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-mi-wiki_pfeiffer_relu.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-mi-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-mi-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "my": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-my-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-my-wiki_pfeiffer_relu.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-my-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-my-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "myv": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_myv_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_myv_wiki_pfeiffer.json"
+        }
+    },
+    "pt": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_pt_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_pt_wiki_pfeiffer.json"
+        }
+    },
+    "qu": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-qu-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-qu-wiki_pfeiffer.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-qu-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-qu-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "ru": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ru-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-ru-wiki_pfeiffer.json",
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-ru-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "se": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_se_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_se_wiki_pfeiffer.json"
+        }
+    },
+    "sw": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-sw-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-sw-wiki_pfeiffer.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-sw-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-sw-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "tk": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-tk-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-tk-wiki_pfeiffer.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-tk-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-tk-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "tr": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_tr_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_tr_wiki_pfeiffer.json"
+        }
+    },
+    "vi": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_vi_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_vi_wiki_pfeiffer.json"
+        }
+    },
+    "wikiann": {
+        "ar": {
+            "57d1ca6590547ddd": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_wikiann_ner_ar_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_wikiann_ner_ar_pfeiffer.json"
+        },
+        "en": {
+            "57d1ca6590547ddd": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_wikiann_ner_en_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_wikiann_ner_en_pfeiffer.json"
+        },
+        "ja": {
+            "57d1ca6590547ddd": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_wikiann_ner_ja_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_wikiann_ner_ja_pfeiffer.json"
+        },
+        "zh1": {
+            "57d1ca6590547ddd": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_wikiann_ner_zh_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_wikiann_ner_zh_pfeiffer.json"
+        }
+    },
+    "wo": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_wo_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_wo_wiki_pfeiffer.json"
+        }
+    },
+    "xmf": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-xmf-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-xmf-wiki_pfeiffer.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-xmf-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-xmf-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "zh": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-zh-wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased-zh-wiki_pfeiffer.json",
+            "e15331acc3f0a5c0": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-zh-wiki_pfeiffer_relu.json"
+                }
+            },
+            "f10efa747ae87c60": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased-zh-wiki_houlsby.json"
+                }
+            }
+        }
+    },
+    "zh_yue": {
+        "wiki": {
+            "d345095bcb01e325": {
+                "versions": {
+                    "ukp": "adapters/ukp/bert-base-multilingual-cased_zh_yue_wiki_pfeiffer.json"
+                }
+            },
+            "default": "adapters/ukp/bert-base-multilingual-cased_zh_yue_wiki_pfeiffer.json"
+        }
+    }
+}
